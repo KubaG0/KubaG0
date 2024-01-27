@@ -2,7 +2,7 @@
 - 👀 I’m interested in analitics, python, machine learning, NLP, ANN
 - 🌱 I’m currently learning as mentioned above #beginner 
 - 💞️ I’m looking to collaborate on ...tbd
-- 📫 How to reach me: <jakub.garsztka3@gmail.com> jakub.garsztka3@gmail.com
+- 📫 How to reach me: <jakub.garsztka3@gmail.com>
 
 
 <!---
